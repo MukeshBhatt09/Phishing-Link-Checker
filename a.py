@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 # ------------------- CONFIG -------------------
-VIRUSTOTAL_API_KEY = "208e5a2024615686d90b5d84e8f89c3c3fb5079bf8f0a821e47d27dc251b5f62"
+VIRUSTOTAL_API_KEY = "PUT-YOUR-API-KEY-HERE"
 SUSPICIOUS_TLDS = {'tk', 'ml', 'ga', 'cf', 'gq'}
 SHORTENERS = ['bit.ly', 'goo.gl', 'tinyurl.com', 't.co', 'ow.ly', 'buff.ly', 'adf.ly']
 PHISHING_KEYWORDS = ['login', 'verify', 'account', 'update', 'secure', 'webscr', 'ebayisapi', 'banking']
