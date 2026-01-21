@@ -1,0 +1,5 @@
+requests
+streamlit
+selenium
+webdriver-manager
+python-whois
