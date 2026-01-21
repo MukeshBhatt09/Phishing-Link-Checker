@@ -1,1 +1,5 @@
-requests whois streamlit selenium webdriver-manager
+requests
+streamlit
+selenium
+webdriver-manager
+python-whois
